@@ -1,1 +1,23 @@
+.pcheese .panel-body {
+  background-color: #faf5ff;
+}
+.pcheese .panel-heading {
+  background-color: #ddcef2;
+}
+.pcheese h3 {
+  color: black;
+}
 
+.first-col .panel-body {
+  background-color: ;
+}
+.first-col .panel-heading {
+  background-color: #cef2e0;
+}
+.first-col h3 {
+  color: black;
+}
+
+.panel-body {
+  background-color: none;
+}
