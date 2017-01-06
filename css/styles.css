@@ -8,8 +8,9 @@
   color: black;
 }
 
+
 .first-col .panel-body {
-  background-color: ;
+  background-color: #f5fffa;
 }
 .first-col .panel-heading {
   background-color: #cef2e0;
@@ -18,6 +19,13 @@
   color: black;
 }
 
-.panel-body {
-  background-color: none;
+
+.second-col .panel-body {
+  background-color: #f5faff;
+}
+.second-col .panel-heading {
+  background-color: #cedff2;
+}
+.second-col h3 {
+  color: black;
 }
