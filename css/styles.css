@@ -1,3 +1,12 @@
+.container {
+  width: 80%;
+  float: right;
+}
+
+.sidebar ul {
+  margin-top: 50px;
+}
+
 .pcheese .panel-body {
   background-color: #faf5ff;
 }
@@ -28,4 +37,15 @@
 }
 .second-col h3 {
   color: black;
+}
+
+.sidebar {
+  float:left;
+  width: 10%;
+  background-color: grey;
+}
+
+.sidebar ul {
+  list-style: none;
+  position: absolute;
 }
